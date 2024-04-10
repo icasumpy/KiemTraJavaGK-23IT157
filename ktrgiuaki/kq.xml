@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<Student>
+<id>1</id>
+<name>Khanh Ly</name>
+<address>Quang Nam</address>
+<dateOfBirth>2005-12-08</dateOfBirth>
+</Student>
+<Student>
+<id>2</id>
+<name>Hong Nhung</name>
+<address>Da Nang</address>
+<dateOfBirth>2005-06-13</dateOfBirth>
+</Student>
+<Student>
+<id>3</id>
+<name>Thao Vy</name>
+<address>Quang Nam</address>
+<dateOfBirth>2005-10-07</dateOfBirth>
+</Student>
+<Student>
+<id>4</id>
+<name>Le Tham</name>
+<address>Daklak</address>
+<dateOfBirth>2005-10-</dateOfBirth>
+</Student>
+<age>MTg=</age>
+<sum>18</sum>
+<isDigit>false</isDigit>
+<age>MTg=</age>
+<sum>17</sum>
+<isDigit>true</isDigit>
+<age>MTg=</age>
+<sum>15</sum>
+<isDigit>false</isDigit>
+<age>MTg=</age>
+<sum>9</sum>
+<isDigit>false</isDigit>
+</result>

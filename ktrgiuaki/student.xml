@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="1">
+        <name>Khanh Ly</name>
+        <address>Quang Nam</address>
+        <dateOfBirth>2005-12-08</dateOfBirth>
+    </student>
+    <student id="2">
+        <name>Hong Nhung</name>
+        <address>Da Nang</address>
+        <dateOfBirth>2005-06-13</dateOfBirth>
+    </student>
+    <student id="3">
+        <name>Thao Vy</name>
+        <address>Quang Nam</address>
+        <dateOfBirth>2005-10-07</dateOfBirth>
+    </student>
+    <student id="4">
+        <name>Le Tham</name>
+        <address>Daklak</address>
+        <dateOfBirth>2005-10-</dateOfBirth>
+    </student>
+</students>
